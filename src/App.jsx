@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>main btanch</h1>
+      <h1>Hi Friends</h1>
     </>
   )
 }
